@@ -30,6 +30,7 @@ Psuedocode -> General Way of representing logic .
                         own semantics or rules or syntax.
 Programming Language -> Translators/Interpreters/Magic Box ->into binary Language (binary)
 
-
+--------------------------------------------------------------------
+Compiler ->Translators and Find Error
 
 
